@@ -4,7 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
   "devDependencies": {
     "@nx/js": "16.8.1",
     "nx": "16.8.1"
